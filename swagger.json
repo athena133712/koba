@@ -3,7 +3,7 @@
     "urls": [
         {
             "url": "https://raw.githubusercontent.com/athena133712/koba/main/takeover.yaml",
-            "name": "DOM XSS BY koba"
+            "name": "Credentials Harvest BY koba"
         }
     ]
 }
